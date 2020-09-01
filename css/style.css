@@ -399,8 +399,12 @@ div.event-book-button {
     color:var(--colour-light-primary)
 }
 
-.faq-question:hover{
+.faq-question:hover {
     color:var(--colour-dark-primary)
+}
+
+.faq-question{
+    margin:0;
 }
 
 /* Branding */
