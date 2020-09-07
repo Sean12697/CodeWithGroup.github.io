@@ -340,7 +340,7 @@ img.profile-photo {
 }
 
 /* Events */
-section#events .card {
+section#events-drop-ins .card, section#events-scheduled .card {
     margin: 0.5em 0.5em 0.5em -0.5em
 }
 
@@ -416,6 +416,12 @@ div.event-book-button {
 .colour-label{
     margin-top:0.2em;
 }
+
+/*404*/
+
+.error-template {padding: 40px 15px;text-align: center;}
+.error-actions {margin-top:15px;margin-bottom:15px;}
+.error-actions .btn { margin-right:10px; text-decoration: none;}
 
 /* RESIZING (min-width) */
  
